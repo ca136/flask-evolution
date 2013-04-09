@@ -9,7 +9,7 @@ by Ricardo Chimal, Jr. and modified for sqlalchemy and to be a flask extension.
 
 2) Init
 
-   from flaskext.evolution import Evolution
+   from flask.ext.evolution import Evolution
    evolution = Evolution(app)
 
    @manager.command
